@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">MOB2021_SP_MS</string>
+    <string name="element_text">Ich weiß es nicht</string>
+
+    <string-array name="Orte">
+        <item>Frankfurt</item>
+        <item>Hannover</item>
+        <item>Köln</item>
+        <item>Neumünster</item>
+        <item>Leipzig</item>
+        <item>Nürnberg</item>
+        <item>Bremen</item>
+        <item>Berlin</item>
+        <item>München</item>
+        <item>Hamburg</item>
+        <item>Kiel</item>
+    </string-array>
+
+    <string-array name="temp">
+        <item>12°C</item>
+        <item>10°C</item>
+        <item>5°C</item>
+        <item>42°C</item>
+        <item>-2°C</item>
+        <item>49°C</item>
+        <item>23°C</item>
+        <item>44°C</item>
+        <item>13°C</item>
+        <item>22°C</item>
+        <item>12°C</item>
+    </string-array>
+    <string name="title_activity_on_click">onClickActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <!--additional text  for specific viwe
+    ERSETZEN MIT DATACONTAINER -->
+
+</resources>
